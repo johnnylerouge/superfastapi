@@ -7,13 +7,13 @@ greenlet==1.1.2
 gunicorn==20.1.0
 h11==0.13.0
 httptools==0.2.0
+joblib
 langcodes==3.3.0
 lxml==4.6.3
 Mako==1.2.0
 nltk
 numpy
 wordnet
-pros_cons
 reuters
 olefile==0.46
 orjson==3.6.7
