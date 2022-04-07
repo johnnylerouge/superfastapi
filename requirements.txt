@@ -19,16 +19,6 @@ olefile==0.46
 orjson==3.6.7
 packaging==21.0
 pandas
-pandocfilters==1.4.2
-protobuf==3.19.4
-psycopg2==2.9.3
-ptyprocess==0.7.0
-pyarrow==7.0.0
-pycodestyle==2.7.0
-pycparser==2.20
-pydantic==1.8.2
-pydeck==0.7.1
-pyLDAvis==3.3.1
 Pympler==1.0.1
 QtPy==1.10.0
 querystring-parser==1.2.4
