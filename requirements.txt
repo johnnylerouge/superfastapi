@@ -19,7 +19,6 @@ greenlet==1.1.2
 gunicorn==20.1.0
 h11==0.13.0
 httptools==0.2.0
-idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1609836280497/work
 importlib-metadata @ file:///home/conda/feedstock_root/build_artifacts/importlib-metadata_1628897593933/work
 importlib-resources==5.4.0
 iniconfig @ file:///home/linux1/recipes/ci/iniconfig_1610983019677/work
