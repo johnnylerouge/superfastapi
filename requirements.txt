@@ -1,12 +1,4 @@
 alembic==1.7.6
-altair==4.2.0
-anyio==3.3.0
-argon2-cffi==20.1.0
-asgiref==3.5.0
-astor==0.8.1
-async-generator==1.10
-autopep8==1.5.7
-Babel==2.9.1
 fastapi==0.75.0
 gensim==4.1.2
 gitdb==4.0.9
@@ -19,11 +11,11 @@ langcodes==3.3.0
 lxml==4.6.3
 Mako==1.2.0
 nltk==3.7
-numpy==1.22.3
+numpy
 olefile==0.46
 orjson==3.6.7
 packaging==21.0
-pandas==1.3.1
+pandas
 pandocfilters==1.4.2
 protobuf==3.19.4
 psycopg2==2.9.3
