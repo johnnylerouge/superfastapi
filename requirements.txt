@@ -40,7 +40,4 @@ querystring-parser==1.2.4
 regex==2022.1.18
 requests==2.27.1
 requests-unixsocket==0.2.0
-scikit-learn @ file:///tmp/build/80754af9/scikit-learn_1621370412049/work
-scikit-learn-intelex==2021.20210714.170431
-scipy @ file:///tmp/build/80754af9/scipy_1618855647378/work
-seaborn @ file:///tmp/build/80754af9/seaborn_1629307859561/work
+scikit-learn 
