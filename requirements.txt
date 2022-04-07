@@ -10,8 +10,11 @@ httptools==0.2.0
 langcodes==3.3.0
 lxml==4.6.3
 Mako==1.2.0
-nltk==3.7
+nltk
 numpy
+wordnet
+pros_cons
+reuters
 olefile==0.46
 orjson==3.6.7
 packaging==21.0
