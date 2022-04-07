@@ -5,46 +5,10 @@ argon2-cffi==20.1.0
 asgiref==3.5.0
 astor==0.8.1
 async-generator==1.10
-attrs @ file:///home/conda/feedstock_root/build_artifacts/attrs_1620387926260/work
 autopep8==1.5.7
 Babel==2.9.1
-backcall @ file:///home/conda/feedstock_root/build_artifacts/backcall_1592338393461/work
-backports.functools-lru-cache @ file:///home/conda/feedstock_root/build_artifacts/backports.functools_lru_cache_1618230623929/work
-backports.zoneinfo==0.2.1
-base58==2.1.1
-beautifulsoup4==4.10.0
-bleach @ file:///home/conda/feedstock_root/build_artifacts/bleach_1628022386512/work
-blinker==1.4
-blis==0.7.6
-Bottleneck==1.3.2
-brotlipy==0.7.0
-cachetools==5.0.0
-catalogue==2.0.6
-category-encoders==2.2.2
-certifi==2021.10.8
-cffi==1.14.6
-chardet @ file:///home/conda/feedstock_root/build_artifacts/chardet_1610093490430/work
-charset-normalizer @ file:///home/conda/feedstock_root/build_artifacts/charset-normalizer_1626371162869/work
-click==8.0.3
-cloudpickle==2.0.0
-cryptography @ file:///home/conda/feedstock_root/build_artifacts/cryptography_1616851476134/work
-cycler==0.10.0
-cymem==2.0.6
-daal==2021.5.1
-daal4py==2021.3.0
-databricks-cli==0.16.4
-debugpy @ file:///home/conda/feedstock_root/build_artifacts/debugpy_1627074852499/work
-decorator @ file:///home/conda/feedstock_root/build_artifacts/decorator_1621187651333/work
-defusedxml @ file:///home/conda/feedstock_root/build_artifacts/defusedxml_1615232257335/work
-dj-database-url==0.5.0
-Django==4.0.3
-django-heroku==0.3.1
-dnspython==2.2.1
-docker==5.0.3
-email-validator==1.1.3
-entrypoints @ file:///home/conda/feedstock_root/build_artifacts/entrypoints_1605121927639/work/dist/entrypoints-0.3-py2.py3-none-any.whl
+
 fastapi==0.75.0
-Flask==2.0.3
 fonttools==4.25.0
 funcy==1.17
 future==0.18.2
@@ -67,7 +31,7 @@ itsdangerous==2.1.0
 jedi @ file:///home/conda/feedstock_root/build_artifacts/jedi_1610146791023/work
 Jinja2 @ file:///home/conda/feedstock_root/build_artifacts/jinja2_1621419064915/work
 joblib @ file:///tmp/build/80754af9/joblib_1613502643832/work
-json5==0.9.6
+5==0.9.6
 jsonschema @ file:///home/conda/feedstock_root/build_artifacts/jsonschema_1614815863336/work
 jupyter==1.0.0
 jupyter-client @ file:///home/conda/feedstock_root/build_artifacts/jupyter_client_1615693636836/work
@@ -159,18 +123,7 @@ scikit-learn @ file:///tmp/build/80754af9/scikit-learn_1621370412049/work
 scikit-learn-intelex==2021.20210714.170431
 scipy @ file:///tmp/build/80754af9/scipy_1618855647378/work
 seaborn @ file:///tmp/build/80754af9/seaborn_1629307859561/work
-semver==2.13.0
-Send2Trash @ file:///home/conda/feedstock_root/build_artifacts/send2trash_1628511208346/work
-sip==4.19.13
-six @ file:///home/conda/feedstock_root/build_artifacts/six_1620240208055/work
-sklearn==0.0
-smart-open==5.2.1
-smmap==5.0.0
-sniffio==1.2.0
-soupsieve==2.3.1
-spacy==3.2.2
-spacy-legacy==3.0.8
-spacy-loggers==1.0.1
+
 SQLAlchemy==1.4.32
 sqlparse==0.4.2
 srsly==2.4.2
